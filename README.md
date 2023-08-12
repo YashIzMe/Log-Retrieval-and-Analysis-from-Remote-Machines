@@ -1,6 +1,7 @@
 Note: The documentation can also be viewed on this link:
 
-Log Analysis Automation Project Documentation
+# Log Analysis Automation Project Documentation
+
 Welcome to the documentation repository for the Log Analysis Automation project. This repository hosts all the detailed information and resources related to the project's conception, development, and execution.
 
 Project Overview
