@@ -1,4 +1,4 @@
-Note: The documentation can also be viewed on this link:
+Note: The documentation can also be viewed on this link: https://drive.google.com/drive/folders/19pJeFTAk2PoDo6fNTczzkiqnjSfnSOAe?usp=sharing
 
 # Log Analysis Automation Project Documentation
 
